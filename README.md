@@ -9,8 +9,8 @@ Instructions to this assignment can be found [here](https://it3038c.github.io/mo
 ```
 
 - [ X] All Unit tests passed.
-- [ ] Filled out the self-evaluation.
-- [ ] Filled out the self-reflection.
+- [ X] Filled out the self-evaluation.
+- [ X] Filled out the self-reflection.
 
 ## Self-Evaluation
 
