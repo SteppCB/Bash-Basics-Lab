@@ -1,7 +1,4 @@
 #!/bin/bash
 
-# Prompt the user to enter their name
-read -p "Enter your name: " name
-
-# Print a personalized greeting message
-echo "Hello, $name! Welcome to the world of bash scripting."
+# This script outputs the text "Hello, World!" to the console
+echo "Hello, World!"
